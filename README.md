@@ -111,11 +111,6 @@ bash
 
 ---
 
-### 💖 Autora
-Desenvolvido com dedicação por Isabela Paiola 🌸✨
-
----
-
 ## 💻Páginas
 - Tela Inicial
 <img width="1554" height="861" alt="pgInicial" src="https://github.com/user-attachments/assets/b5363854-1927-4285-90e1-f8ceb5e31088" />
@@ -139,6 +134,11 @@ Desenvolvido com dedicação por Isabela Paiola 🌸✨
 
 ### 📜 Licença
 Este projeto é de uso educacional e está sob a licença MIT.
+
+---
+
+### 💖 Autora
+Desenvolvido com dedicação por Isabela Paiola 🌸✨
 
 ---
 
