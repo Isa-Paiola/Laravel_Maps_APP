@@ -133,7 +133,7 @@ bash
 ---
 
 ### 📜 Licença
-Este projeto é de uso educacional e está sob a licença MIT.
+Este projeto é de uso educacional.
 
 ---
 
